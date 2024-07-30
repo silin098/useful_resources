@@ -10,4 +10,5 @@
 
 4. [Random Robo Image Api](https://robohash.org/)
 5. [Z Library Books](https://singlelogin.re/)
+6. [Favicon Generator](https://favicon.io/)
 
