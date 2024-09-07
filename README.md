@@ -11,4 +11,5 @@
 4. [Random Robo Image Api](https://robohash.org/)
 5. [Z Library Books](https://singlelogin.re/)
 6. [Favicon Generator](https://favicon.io/)
+7. [Stable Diffusion Image Generator](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
 
