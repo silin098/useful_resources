@@ -12,4 +12,5 @@
 5. [Z Library Books](https://singlelogin.re/)
 6. [Favicon Generator](https://favicon.io/)
 7. [Stable Diffusion Image Generator](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
+8. [Lexica Image Prompt](https://lexica.art/)
 
