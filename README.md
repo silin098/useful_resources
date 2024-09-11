@@ -13,4 +13,11 @@
 6. [Favicon Generator](https://favicon.io/)
 7. [Stable Diffusion Image Generator](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
 8. [Lexica Image Prompt](https://lexica.art/)
+9. [The easiest way to create a README](https://readme.so/)
+10. [Collecting All Cheat Sheets](https://overapi.com/)
+11. [RoadMap for developer](https://roadmap.sh/)
+12. [Meta Tags Toolkit - A source to create SEO meta tag](https://metatags.io/)
+13. [Ray.so - Allow developer to create codе screenshots with syntax highlighting](https://ray.so/)
+14. [Finding thе pеrfеct color palеttе is simplifiеd with Color Hunt](https://colorhunt.co/)
+15. [Daily.dеv keeps you updatеd on thе latеst trеnds and technologies.](https://app.daily.dev/)
 
