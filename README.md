@@ -22,4 +22,5 @@
 15. [Daily.dеv keeps you updatеd on thе latеst trеnds and technologies.](https://app.daily.dev/)
 16. [Carbon - Create and share beautiful images of your source code.](https://carbon.now.sh/)
 17. [Profile Pic Maker](https://pfpmaker.com/)
+18. [Image Model Generator](https://civitai.com/)
 
